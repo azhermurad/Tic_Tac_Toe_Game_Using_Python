@@ -1,6 +1,6 @@
 # 🎮 Tic-Tac-Toe (Command Line Game)
 
-This is a modular, object-oriented command-line implementation of the classic Tic-Tac-Toe game, created for **CS-878 (Spring 2025)** assignment. The game features clean code architecture, structured logging, and interactive two-player gameplay.
+This is a modular, object-oriented command-line implementation of the classic Tic-Tac-Toe game. The game features clean code architecture, structured logging, and interactive two-player gameplay.
 
 ---
 
@@ -35,11 +35,6 @@ tic_tac_toe/
 
 
 
-
-
-
-
----
 
 ## 🚀 How to Run
 
