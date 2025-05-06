@@ -17,6 +17,8 @@ This is a modular, object-oriented command-line implementation of the classic Ti
 
 ## 🗂️ Project Structure
 
+```
+
 tic_tac_toe/
 ├── main.py # Main controller to run the game
 ├── game/
@@ -28,6 +30,8 @@ tic_tac_toe/
 │ ├── display.py # UI printing helpers
 │ └── logger.py # Logger class for saving game logs
 └── game_log/ # Auto-created during gameplay
+
+```
 
 
 
@@ -41,15 +45,17 @@ tic_tac_toe/
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/tic_tac_toe.git
-   cd tic_tac_toe
+      git clone https://github.com/yourusername/tic_tac_toe.git
+      cd tic_tac_toe
 
 
 2. **Run the game:**
-    ```python main.py
+    ```bash
+       python main.py
 
 
 3. **Sample Log Output:**:
+```
 Game Log - 2025-05-06 12:34:56
 Players:
     - Alice (X)
@@ -69,5 +75,5 @@ Board After Move 3:
     -----------
     7 | 8 | X
 
-Result: Alice wins!
+Result: Alice wins! ```
 
